@@ -3,6 +3,7 @@ To be able to use this project you'd need to start at least 2 grapes and connect
 To install the repository you must clone it, navigate inside of it, and install its dependencies:
 ```
 git clone https://github.com/muthandir/grenache-challenge
+cd grenache-challenge
 npm i
 ```
 
