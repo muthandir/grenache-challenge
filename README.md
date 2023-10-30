@@ -5,6 +5,7 @@ To install the repository you must clone it, navigate inside of it, and install 
 git clone https://github.com/muthandir/grenache-challenge
 cd grenache-challenge
 npm i
+npm start
 ```
 
 Then you can run tests as follows:
